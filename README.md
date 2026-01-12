@@ -2,4 +2,4 @@ This repository contains the codes for the Task-2 of my internship at SkillCraft
 
 This is a live stopwatch that has features of creating and storing laps.
 
-Link :
+Link : https://sct-wd-1-bsw9.vercel.app/
